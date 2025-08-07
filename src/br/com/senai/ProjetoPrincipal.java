@@ -1,4 +1,4 @@
-package br.com.senai.br.com;
+package br.com.senai;
 
 public class ProjetoPrincipal {
     public static void main(String[] args){
